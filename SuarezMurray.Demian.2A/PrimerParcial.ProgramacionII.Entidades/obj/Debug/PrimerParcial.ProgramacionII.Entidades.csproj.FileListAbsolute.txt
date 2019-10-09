@@ -1,0 +1,5 @@
+D:\VisualStudio\SuarezMurray.Demian.2A\PrimerParcial.ProgramacionII.Entidades\obj\Debug\PrimerParcial.ProgramacionII.Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\SuarezMurray.Demian.2A\PrimerParcial.ProgramacionII.Entidades\bin\Debug\PrimerParcial.ProgramacionII.Entidades.dll
+D:\VisualStudio\SuarezMurray.Demian.2A\PrimerParcial.ProgramacionII.Entidades\bin\Debug\PrimerParcial.ProgramacionII.Entidades.pdb
+D:\VisualStudio\SuarezMurray.Demian.2A\PrimerParcial.ProgramacionII.Entidades\obj\Debug\PrimerParcial.ProgramacionII.Entidades.dll
+D:\VisualStudio\SuarezMurray.Demian.2A\PrimerParcial.ProgramacionII.Entidades\obj\Debug\PrimerParcial.ProgramacionII.Entidades.pdb

@@ -1,0 +1,10 @@
+D:\VisualStudio\SuarezMurray.Demian.2A\PPConsole\obj\Debug\PPConsole.csprojAssemblyReference.cache
+D:\VisualStudio\SuarezMurray.Demian.2A\PPConsole\obj\Debug\PPConsole.csproj.CoreCompileInputs.cache
+D:\VisualStudio\SuarezMurray.Demian.2A\PPConsole\bin\Debug\PPConsole.exe.config
+D:\VisualStudio\SuarezMurray.Demian.2A\PPConsole\bin\Debug\PPConsole.exe
+D:\VisualStudio\SuarezMurray.Demian.2A\PPConsole\bin\Debug\PPConsole.pdb
+D:\VisualStudio\SuarezMurray.Demian.2A\PPConsole\bin\Debug\PrimerParcial.ProgramacionII.Entidades.dll
+D:\VisualStudio\SuarezMurray.Demian.2A\PPConsole\bin\Debug\PrimerParcial.ProgramacionII.Entidades.pdb
+D:\VisualStudio\SuarezMurray.Demian.2A\PPConsole\obj\Debug\PPConsole.csproj.CopyComplete
+D:\VisualStudio\SuarezMurray.Demian.2A\PPConsole\obj\Debug\PPConsole.exe
+D:\VisualStudio\SuarezMurray.Demian.2A\PPConsole\obj\Debug\PPConsole.pdb
